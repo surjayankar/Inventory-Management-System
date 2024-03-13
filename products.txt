@@ -1,0 +1,3 @@
+e60529ed-bdfe-4eb2-b59a-aa3380ea1d0e,Laptop,999.99,10
+c5cd61dd-9132-4f4d-b418-dec9b012e40f,Phone,599.99,20
+7c86343d-ff92-460f-9c90-ea9b7ecd8026,Headphones,99.99,30
